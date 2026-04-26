@@ -1,0 +1,7 @@
+﻿.admin-auth .auth-card, .admin-sidebar, .metric-card, .inline-form { background: linear-gradient(180deg, rgba(255,255,255,0.95), rgba(245,247,251,0.95)); }
+.admin-sidebar h1 { margin: 0 0 0.5rem; }
+.admin-sidebar a { font-weight: 700; }
+.admin-main { display: grid; gap: 1rem; }
+
+.link-button { border: 0; background: none; color: var(--error); cursor: pointer; font: inherit; padding: 0; }
+.link-button:hover { text-decoration: underline; }
